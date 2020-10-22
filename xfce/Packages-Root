@@ -1,4 +1,4 @@
-base
+frost-base
 @openrc elogind-openrc
 @runit elogind-runit
 @s6 elogind-s6
